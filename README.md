@@ -17,3 +17,7 @@ screenshot:code oricid
 new method:The result of the new article
 
 without:The shape of the result of the article without innovation
+
+code description rar: code description
+
+link google drive(run code): Difference between code innovation and no innovation
