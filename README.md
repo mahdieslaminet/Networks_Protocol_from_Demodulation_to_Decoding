@@ -1,16 +1,20 @@
 # Networks_Protocol_from_Demodulation_to_Decoding
+
 🔗introduction 
 
 Low Power Wide Area Network (LPWAN) technology has been shown to be very promising for connecting millions of devices in the Internet of Things (IoT) by providing long-distance and low-power communication under a very low SNR. LoRa, as a representative LPWAN technology, has recently been widely adopted in both academia and industry [1–4]. It has been used in various IoT applications, e.g., smart city, smart agriculture, and smart logistics [5–8]. It also attracts a large
 
 From Demodulation to Decoding: Toward Complete LoRa PHY Understanding and Implementation
 https://drive.google.com/drive/folders/1x_bKWXPpsZr7APT-UEvr5KjlDU9Bd7qh?usp=drive_link
+
 🔗Ways of communication
+
 1_Email:amir770519@gmail.com
 
 2_telegram id:@amirarab77
 
 🔗Guide
+
 1_end main:The rewritten file of the original article
 https://drive.google.com/drive/folders/1awRJp5mvNgPeaFE69_aM7MeTfU8spWW2
 
