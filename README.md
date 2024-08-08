@@ -38,3 +38,5 @@ https://drive.google.com/file/d/1MgyzOtAfWiY8OHz_LDsag1ljsCHQzUeQ/view?usp=drive
 
 8_link google drive(run code): Difference between code innovation and no innovation
 https://drive.google.com/file/d/1tAnb8iTzRxJ5cOVDp5XFZ1K8gAvsesws/view?usp=drivesdk
+
+AI detector:https://drive.google.com/file/d/1nQsESswRwHm7VBWe7DyQjWTALd8DOk4b/view?usp=drivesdk
